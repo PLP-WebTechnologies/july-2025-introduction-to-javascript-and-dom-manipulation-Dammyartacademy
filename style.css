@@ -1,0 +1,24 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    background: #244464;
+}
+
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 8px 12px;
+    border-radius: 5px 8px;
+    cursor: pointer;
+}
+
+.theapp{
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#title{
+    color: rgb(144, 132, 212);
+}
